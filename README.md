@@ -6,15 +6,10 @@
 
 <hr>
 
-👋 Hi, I'm [@Morgy93](https://github.com/Morgy93) 😃
+👋 **Hey there!**  
 
-👀 I'm interested in pretty much anything ♾️
+🚀 Passionate about writing clean, efficient code and crafting innovative solutions.  
+🔧 Constantly exploring new technologies to work smarter, not harder.  
+💡 *"Good developers solve problems. Great developers automate them."*  
 
-🌱 I'm currently learning how to save planet earth 🌍
-
-💞️ I'm looking to collaborate on interesting GitHub repos ⌨️
-
-📫 How to reach me: [Discussions](https://github.com/Morgy93/Morgy93/discussions) are open 📧
-
-<img src="https://github-readme-stats.vercel.app/api?username=Morgy93&theme=dark&hide_border=true&cache_seconds=3600&show_icons=true&custom_title=GitHub%20Stats">
-<sup>Credits to <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">anuraghazra/github-readme-stats</a> ♥</sup>
+❤️‍🔥 Obsessed with [Playwright](https://playwright.dev/) & [GitHub Copilot](https://github.com/features/copilot)! ⚡
